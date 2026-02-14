@@ -46,5 +46,6 @@ This project analyzes sales data for a UK-based clothing retailer to identify ke
 - `/notebooks` – Python EDA notebook
 - `/dashboard` – Tableau dashboard screenshots
 - `README.md`
+## Tableau Dashboard Link
 
-
+https://public.tableau.com/views/UK_clothing_sales_analysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
